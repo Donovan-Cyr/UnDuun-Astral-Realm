@@ -1,0 +1,13 @@
+.historyPage .container {
+  background-image: url("../assets/scrollBackdrop.png");
+  background-repeat: no-repeat;
+  background-position: top -35px center;
+  height: 975px;
+}
+.historyPage .textBox {
+  margin-top: 40px;
+  padding-left: 25px;
+  color: black;
+  width: 550px;
+  
+}
